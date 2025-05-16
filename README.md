@@ -1,4 +1,4 @@
-# Excel-Clone-Project
+# Spreadsheet Application (Excel Clone)
 Developed a fully functional spreadsheet web application that mimics core features of Microsoft Excel. The
 application supports multiple sheets, rich text formatting, cell-based formula computations, dependency
 graph tracking, and cycle detection in formula references. Key features include:
